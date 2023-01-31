@@ -14,11 +14,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. End the program.
 
 ## Program:
-```
-='''Program to solve a matrix using Gaussian elimination with partial pivoting.
+```python
+Program to solve a matrix using Gaussian elimination with partial pivoting.
 Developed by: E. VARSHA SHARON
 RegisterNumber: 22004867
-'''
+
 import numpy as np
 import sys
 n=int(input())
